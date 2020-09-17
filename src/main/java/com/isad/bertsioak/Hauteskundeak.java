@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class Hauteskundeak {
 
 	private ArrayList<String> mahaiak = new ArrayList<String>();
+	//ortiwii
 
 	@Override
 	public String toString() {
